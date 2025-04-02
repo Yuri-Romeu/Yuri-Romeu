@@ -28,7 +28,6 @@ Sou um **entusiasta da tecnologia** apaixonado por desenvolvimento web e sempre 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Romeu&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuri-Romeu&theme=radical"/>
 </div>
 
 ---
@@ -39,3 +38,4 @@ Sou um **entusiasta da tecnologia** apaixonado por desenvolvimento web e sempre 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriromeu2007@gmail.com)
 
 Vamos construir algo incrível juntos! 🚀
+
