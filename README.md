@@ -1,16 +1,41 @@
-## Hi there 👋
+### Olá, eu sou o Yuri! 👋
 
-<!--
-**Yuri-Romeu/Yuri-Romeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **entusiasta da tecnologia** apaixonado por desenvolvimento web e sempre em busca de aprender algo novo. Meu objetivo é crescer como desenvolvedor e conquistar a liberdade para viajar pelo mundo. 🌎🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mim
+- 📚 **Estudante de Programação**
+- 💻 Focado em **Front-end**
+- 🛠️ Construindo projetos próprios e colaborando em equipe
+- ✈️ Sonho em trabalhar remotamente e explorar o mundo
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yuri-Romeu&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yuri-Romeu&theme=radical"/>
+</div>
+
+---
+
+### 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriromeu2007@gmail.com)
+
+Vamos construir algo incrível juntos! 🚀
