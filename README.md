@@ -34,7 +34,7 @@ Sou um **entusiasta da tecnologia** apaixonado por desenvolvimento web e sempre 
 
 ### 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YuriRomeu/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuriromeu2007@gmail.com)
 
 Vamos construir algo incrível juntos! 🚀
