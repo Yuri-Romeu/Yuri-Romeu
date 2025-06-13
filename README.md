@@ -26,6 +26,7 @@ Sou um **entusiasta da tecnologia** apaixonado por desenvolvimento web e sempre 
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
 ![Grunt](https://img.shields.io/badge/grunt-EB9301?style=for-the-badge&logo=Grunt&logoColor=black)
+![Parcel](https://img.shields.io/badge/Parcel-D6A674?style=for-the-badge&logo=parcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
